@@ -1,2 +1,7 @@
 # 007
-Layer7 HTTP Attack Tool *****
+Layer 7 USE: python2 007.py http://targetsite -w 120 -s 4165
+
+
+----------------
+
+DOWNLOAD COMMAND:
