@@ -1,5 +1,5 @@
 # 007.PY (ONLY USE VPS - SPOOF) *****
-Layer 7 USE: python2 007.py http://targetsite -w 120 -s 4165
+Layer 7 USE: python2 007.py http://targetsite -w 69 -s 4165
 
 
 ----------------
